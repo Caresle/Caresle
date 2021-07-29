@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carlos Estrada
-- 👀 I’m interested in Game Development, animation, backend and basic frontend
+- 👀 I’m interested in backend and basic frontend
 - 📫 How to reach me:
 
   [![Instagram Badge](https://img.shields.io/badge/caresle1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/caresle1/)
