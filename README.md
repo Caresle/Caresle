@@ -1,25 +1,33 @@
-- 👋 Hi, I’m Carlos Estrada
-- 👀 I’m interested in backend and basic frontend
-- 📫 How to reach me:
+<h2 align="center">👋 Hi, I’m Carlos Estrada. I'm a backend developer.</h2>
+<br>
 
-  [![Instagram Badge](https://img.shields.io/badge/caresle1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/caresle1/)
-  [![Twitter Badge](https://img.shields.io/badge/caresle1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Caresle1)
-  [![Gmail Badge](https://img.shields.io/badge/carabesle@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carabesle@gmail.com)
+<p align="center">
+  <h2 align="center">📫 How to reach me</h2>
+  <div align="center">
+    <a href="https://www.instagram.com/caresle1/">Instagram</a>
+    <a href="https://twitter.com/Caresle1">Twitter</a>
+  </div>
+</p>
 
-- 🌱 I’m currently learning:
+<h2 align="center">🌱 I’m currently learning:</h2>
 
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+<div align="center">
+  <img alt="Java" src="./skills/java.svg" height="48px" />
+  <img alt="MariaDB" src="./skills/mariadb.svg" height="48px"/>
+  <img alt="React" src="./skills/react.svg" height="48px"/>
+</div>
 
-- :zap: Technologies:
-  
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<h2 align='center'> :zap: Skills:</h2>
+  <p align='center'>
+    My Programming skills.
+  </p>
+  <div align="center">
+    <img alt="CSS" src="./skills/css-3.svg" height="48px" />
+    <img alt="Javascript" src="./skills/javascript.svg" height="48px"/>
+    <img alt="Nodejs" src="./skills/nodejs-icon.svg" height="48px"/>
+    <img alt="Express" src="./skills/express.svg" height="48px"/>
+    <img alt="MongoDB" src="./skills/mongodb.svg" height="48px"/>  
+  </div>
   
 
 <!---
