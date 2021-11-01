@@ -1,7 +1,7 @@
 Hi, i'm Caresle an average programmer that like to share content about gamedev and web development.
 
 ## Skills
-Check my recent activity and pinned repos for see what are the technologies with i usally use.
+Check my recent activity and pinned repos for see what are the technologies that i'm learning/using.
 
 ## Social Media and support
 [Spanish Instagram](https://www.instagram.com/caresle1/)
