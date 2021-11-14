@@ -1,4 +1,4 @@
-🎮 Hi, i'm Caresle an average programmer that like create games.
+🎮 Hi, i'm Caresle an average programmer, that like make games.
 
 ## Social Media and support
 🐦[Spanish Twitter](https://twitter.com/caresle1)
