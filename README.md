@@ -2,6 +2,5 @@
 
 ## Social Media and support
 🐦[Spanish Twitter](https://twitter.com/caresle1)
-🐦[English Twitter](https://twitter.com/caresle1en)
 
 ♥ [Kofi if you want to support](https://ko-fi.com/caresle)
